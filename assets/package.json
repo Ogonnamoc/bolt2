@@ -17,7 +17,7 @@
         "bootstrap-sass": "~3.3.7",
         "dropzone": "^5.1.1",
         "font-awesome": "~4.7.0",
-        "jquery": "~2.2.4",
+        "jquery": "~3.5.0",
         "jquery-formatdatetime": "~1.1.6",
         "jquery.cookie": "~1.4.1",
         "magnific-popup": "~1.1.0",

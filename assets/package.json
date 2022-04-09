@@ -22,7 +22,7 @@
         "jquery.cookie": "~1.4.1",
         "magnific-popup": "~1.1.0",
         "modernizr": "~3.5.0",
-        "moment": "~2.20.1",
+        "moment": "~2.29.2",
         "select2": "4.0.6-rc.1"
     },
     "devDependencies": {
